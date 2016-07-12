@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UC Gameplay</string>
+    <string name="title_activity_stat">StatActivity</string>
+    <string name="urban_crusade">Urban Crusade</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="developer_0">Shibasis Patnaik</string>
+    <string name="developer_1">Parichay Barpanda</string>
+    <string name="title_clue_list">Clues</string>
+    <string name="title_clue_detail">Clue Detail</string>
+    <string name="title_card_list">Cards</string>
+    <string name="title_card_detail">Card Detail</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="application_id">af5cbcf45b2c0750a410b3c514539c167cbfbd789b76b1b8535a533ba5faf50b</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

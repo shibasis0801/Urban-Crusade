@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Locations">
+        <group android:checkableBehavior="single">
+            <item android:id="@+id/nav_worm" android:icon="@drawable/worm"
+                android:title="Worm" />
+            <item android:id="@+id/nav_virus" android:icon="@drawable/virus"
+                android:title="Virus" />
+            <item android:id="@+id/nav_trojan" android:icon="@drawable/trojan"
+                android:title="Trojan" />
+            <item android:id="@+id/nav_antivirus" android:icon="@drawable/anti_virus"
+                android:title="AntiVirus" />
+            <item android:id="@+id/nav_console" android:icon="@drawable/console"
+                android:title="Console" />
+        </group>
+    </item>
+    <item android:title="Utility">
+        <menu>
+            <item android:title="Map" android:id="@+id/nav_map"
+                android:icon="@android:drawable/ic_dialog_map"/>
+            <item android:title="Unlocked" android:id="@+id/nav_card"
+                android:icon="@android:drawable/ic_lock_lock"/>
+            <item android:id="@+id/nav_submit" android:icon="@android:drawable/ic_menu_share"
+                android:title="Submit" />
+        </menu>
+    </item>
+</menu>

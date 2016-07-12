@@ -1,0 +1,16 @@
+<resources>>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+        <item name="android:windowBackground">@drawable/background2</item>
+    </style>
+    <style name="MapTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+    </style>
+    <style name="UrbanSplash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_urban</item>
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+    </style>
+</resources>
